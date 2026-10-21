@@ -41,6 +41,25 @@ plugins:
   - search:
       lang: [tr, en]
 
+# Sitenin alt bilgisindeki sosyal medya ikonları
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/iucyberofficial/
+      name: Instagram
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/iucyberofficial/
+      name: LinkedIn
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@iucyberofficial
+      name: YouTube
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/saC5JCNat
+      name: Discord
+    - icon: fontawesome/brands/github
+      link: https://github.com/IUCYBER/awesome-iucyber
+      name: GitHub
+
 markdown_extensions:
   - github-callouts          # GitHub'daki > [!TIP] kutularını sitede de çizer
   - attr_list

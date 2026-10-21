@@ -10,6 +10,7 @@
 
 | Kanal | İçerik | Dil |
 | ----- | ------ | --- |
+| ⭐ [IUCyber](https://www.youtube.com/@iucyberofficial) | Kulübümüzün kanalı: eğitim kayıtları, etkinlikler | `🇹🇷 TR` |
 | [Can Değer](https://www.youtube.com/@CanDeger) | Siber güvenlik içerikleri | `🇹🇷 TR` |
 | [Mehmet İnce](https://www.youtube.com/@mdisec) | Web güvenliği, uygulamalı anlatımlar | `🇹🇷 TR` |
 | ⭐ [The Cyber Mentor (TCM)](https://www.youtube.com/@TCMSecurityAcademy) | Pentest, ethical hacking kursları | `🇬🇧 EN` |

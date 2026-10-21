@@ -85,7 +85,13 @@ Bu repo kulüp üyeleriyle birlikte büyüyor. Git bilmene gerek yok:
 
 <div align="center">
 
-**IUCyber** · <!-- TODO: Instagram / LinkedIn / Discord linkleri -->
+**IUCyber'ı takip et**
+
+[![Instagram](https://img.shields.io/badge/Instagram-iucyberofficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iucyberofficial/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iucyberofficial-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/iucyberofficial/)
+[![YouTube](https://img.shields.io/badge/YouTube-iucyberofficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iucyberofficial)
+[![Discord](https://img.shields.io/badge/Discord-Topluluğa_Katıl-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/saC5JCNat)
+
 Bu repoyu faydalı bulduysan ⭐ vermeyi unutma!
 
 <sub>İçerik [CC BY-SA 4.0](LICENSE) lisansı ile paylaşılmaktadır.</sub>
