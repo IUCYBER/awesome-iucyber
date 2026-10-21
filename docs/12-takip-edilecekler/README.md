@@ -40,5 +40,3 @@
 ## Podcast
 
 - ⭐ **[Siber Alemden Havadisler (Utku Şen)](https://www.youtube.com/playlist?list=PLAa-yEtapD02qsIgPreGcbs2uLhpzbbui)**: Siber güvenlik, teknoloji, yapay zeka ve kariyer gündeminin haftalık Türkçe özeti. `🟢 Başlangıç` `📺 Video` `🇹🇷 TR` `🆓 Ücretsiz`
-- ⭐ **[Darknet Diaries](https://darknetdiaries.com/)**: Gerçek hack hikayeleri; hem eğlenceli hem öğretici. `🟢 Başlangıç` `🇬🇧 EN` `🆓 Ücretsiz`
-- **[Risky Business](https://risky.biz/)**: Haftalık siber güvenlik haber podcast'i. `🟡 Orta` `🇬🇧 EN` `🆓 Ücretsiz`
