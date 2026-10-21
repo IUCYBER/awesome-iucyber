@@ -1,6 +1,6 @@
 # 🛡️ IUCyber Kaynak Reposu
 
-**Sıfırdan ileri seviyeye siber güvenlik kaynakları.** Kulüp üyeleriyle birlikte büyüyen kaynak kütüphanesi.
+**Sıfırdan ileri seviyeye siber güvenlik kaynakları.** **IUCyber** (İstanbul Üniversitesi-Cerrahpaşa Siber Güvenlik Kulübü) üyeleriyle birlikte büyüyen kaynak kütüphanesi.
 
 > [!TIP]
 > Yukarıdaki **arama kutusunu** kullanarak tüm kaynaklarda arama yapabilirsin. Etiketlerle de arayabilirsin: `Başlangıç`, `TR`, `Ücretsiz`, `Lab`...

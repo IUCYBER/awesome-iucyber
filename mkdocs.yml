@@ -1,7 +1,7 @@
 # Web sitesi ayarları (GitHub Pages). İçerik docs/ klasöründen okunur.
 # Yerelde önizleme:  pip install -r requirements.txt  &&  mkdocs serve
 site_name: IUCyber Kaynak Reposu
-site_description: Sıfırdan ileri seviyeye siber güvenlik kaynakları
+site_description: IUCyber (İstanbul Üniversitesi-Cerrahpaşa Siber Güvenlik Kulübü) siber güvenlik kaynak kütüphanesi
 site_url: https://iucyber.github.io/awesome-iucyber/
 repo_url: https://github.com/IUCYBER/awesome-iucyber
 repo_name: IUCYBER/awesome-iucyber

@@ -2,7 +2,7 @@
 
 # 🛡️ IUCyber Kaynak Reposu
 
-**İÜCyber Siber Güvenlik Kulübü'nün** <!-- TODO: kulübün tam adı --> sıfırdan ileri seviyeye kadar derlediği, topluluk tarafından büyüyen kaynak kütüphanesi.
+**IUCyber** (İstanbul Üniversitesi-Cerrahpaşa Siber Güvenlik Kulübü) tarafından sıfırdan ileri seviyeye kadar derlenen, toplulukla birlikte büyüyen kaynak kütüphanesi.
 
 [🚀 Nereden Başlamalıyım?](docs/00-baslangic/README.md) ·
 [🗺️ Yol Haritaları](docs/roadmaps/README.md) ·
