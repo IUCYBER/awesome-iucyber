@@ -14,11 +14,18 @@
 
 - **Who Am I (2014)**: İnsan zafiyetinin ne kadar tehlikeli olduğunu gösteren muazzam bir kurgu.
 - **WarGames (1983)**: Kişisel bilgisayarların ilk döneminde, "hacker" kavramının yeni yeni ortaya çıktığı zamanlarda geçen bir klasik.
+- **Hackers (1995)**: 90'ların kült hacker filmi.
+- **Snowden (2016)**: Edward Snowden'ın NSA ifşaatları.
 
 ## Kitaplar
 
-- _Henüz kaynak eklenmedi. [Öner!](../CONTRIBUTING.md)_
+- **Ghost in the Wires (Kevin Mitnick)**: Dünyanın en ünlü hacker'ının sosyal mühendislik dolu otobiyografisi.
+- **The Cuckoo's Egg (Clifford Stoll)**: 1980'lerde bir astronomun bir casusu ağda takip etmesi. İlk "olay müdahalesi" hikayesi.
+- **Countdown to Zero Day (Kim Zetter)**: Stuxnet'in hikayesi.
+- **Sandworm (Andy Greenberg)**: Devlet destekli siber saldırıların (NotPetya) hikayesi.
 
 ## Belgeseller
 
-- _Henüz kaynak eklenmedi. [Öner!](../CONTRIBUTING.md)_
+- **Zero Days (2016)**: Stuxnet belgeseli.
+- **Citizenfour (2014)**: Snowden ifşaatlarının gerçek zamanlı belgeseli (Oscar ödüllü).
+- **The Great Hack (2019)**: Cambridge Analytica ve veri gizliliği.

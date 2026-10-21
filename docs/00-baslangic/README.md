@@ -53,6 +53,15 @@ Aşağıdakilerden **sadece birini** yap, yeter:
 - The Cyber Mentor'un giriş videosunu izle,
 - ya da sadece bugün öğrendiklerine kendin bir göz at. **İlgilenmen ve araştırman yeterli.**
 
+### 📚 Yapılandırılmış Başlangıç Kursları
+
+Adım adım ilerleyen, baştan sona bir program istiyorsan:
+
+- ⭐ **[TryHackMe: Pre Security](https://tryhackme.com/path/outline/presecurity)**: Hiç bilgisi olmayanlar için ağ, web ve Linux'a giriş yolu. Intro to Offensive Security'den önce ideal. `🟢 Başlangıç` `🧪 Lab` `🇬🇧 EN` `🆓/💰 Kısmen`
+- **[BTK Akademi](https://www.btkakademi.gov.tr/)**: Devletin ücretsiz eğitim platformu; siber güvenlik, ağ ve Python kursları, sertifikalı. `🟢 Başlangıç` `🎓 Kurs` `🇹🇷 TR` `🆓 Ücretsiz`
+- **[Cisco NetAcad: Introduction to Cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity)**: Kısa, rozetli, sıfırdan siber güvenliğe giriş kursu. `🟢 Başlangıç` `🎓 Kurs` `🇬🇧 EN` `🆓 Ücretsiz`
+- **[Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)**: Kapsamlı ve yapılandırılmış giriş programı. Coursera'da finansal yardım başvurusuyla ücretsiz alınabiliyor. `🟢 Başlangıç` `🎓 Kurs` `🇬🇧 EN` `🆓/💰 Kısmen`
+
 ---
 
 <a id="ilk-30-gun"></a>

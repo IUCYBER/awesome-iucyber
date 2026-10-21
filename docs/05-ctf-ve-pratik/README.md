@@ -15,12 +15,16 @@
 | -------- | ------ | --------- |
 | ⭐ [TryHackMe](https://tryhackme.com/) | Yeni başlayanlar için en iyi lab. Kurulum gerekmez. | `🟢 Başlangıç` `🆓/💰 Kısmen` |
 | ⭐ [Hack The Box](https://app.hackthebox.com/) | Temeli attıktan sonra kulüpçe geçeceğimiz asıl yer. | `🟡 Orta` `🔴 İleri` `🆓/💰 Kısmen` |
+| ⭐ [Hack The Box Academy](https://academy.hackthebox.com/) | HTB'nin modül tabanlı eğitim platformu; "Fundamental" modüller ücretsiz, öğrenci indirimi var. | `🟢 Başlangıç` `🆓/💰 Kısmen` |
 | [Hackviser](https://app.hackviser.com/) | Senaryolarla pratik için harika bir yerli alternatif. | `🟢 Başlangıç` `🇹🇷 TR` `🆓/💰 Kısmen` |
 | [PortSwigger Academy](https://portswigger.net/web-security) | Web güvenliği için devasa, ücretsiz lab. | `🟢 Başlangıç` `🆓 Ücretsiz` |
 | [LetsDefend](https://letsdefend.io/) | Blue team / SOC pratiği. | `🟢 Başlangıç` `🆓/💰 Kısmen` |
 | [Hacker101 CTF](https://ctf.hacker101.com/) | Alternatif, web odaklı CTF platformu. _(Ekim 2026: geçici olarak kapalı.)_ | `🟡 Orta` `🆓 Ücretsiz` |
 | [picoCTF](https://picoctf.org/) | Öğrencilere yönelik, kalıcı CTF pratik alanı. | `🟢 Başlangıç` `🆓 Ücretsiz` |
+| [Root-Me](https://www.root-me.org/) | 500+ challenge; web, ağ, kripto, forensics, her şey. | `🟢 Başlangıç` `🔴 İleri` `🆓 Ücretsiz` |
+| [CyberTalents](https://cybertalents.com/) | Bölgesel CTF yarışmaları ve pratik soruları. | `🟢 Başlangıç` `🆓/💰 Kısmen` |
 | [pwn.college](https://pwn.college/) | Sistem güvenliği ve binary exploitation dersleri. | `🟡 Orta` `🔴 İleri` `🆓 Ücretsiz` |
+| [pwnable.kr](https://pwnable.kr/) | Binary exploitation wargame'i. | `🔴 İleri` `🆓 Ücretsiz` |
 
 ## Wargame'ler
 
