@@ -16,7 +16,7 @@
 ## Pratik / Lab
 
 - ⭐ **[PortSwigger Web Security Academy](https://portswigger.net/web-security)**: Web güvenliği için devasa ve ücretsiz laboratuvar. `🟢 Başlangıç` → `🔴 İleri` `🧪 Lab` `🇬🇧 EN` `🆓 Ücretsiz`
-- **[Hacker101 CTF](https://ctf.hacker101.com/)**: HackerOne'ın web odaklı CTF'i. `🟡 Orta` `🧪 Lab` `🇬🇧 EN` `🆓 Ücretsiz`
+- **[Hacker101 CTF](https://ctf.hacker101.com/)**: HackerOne'ın web odaklı CTF'i. _(Ekim 2026: geçici olarak kapalı.)_ `🟡 Orta` `🧪 Lab` `🇬🇧 EN` `🆓 Ücretsiz`
 - **[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)**: Bilerek açıklı bırakılmış, kendi bilgisayarında çalıştırabileceğin uygulama. `🟢 Başlangıç` `🧪 Lab` `🇬🇧 EN` `🆓 Ücretsiz`
 
 ## Bug Bounty

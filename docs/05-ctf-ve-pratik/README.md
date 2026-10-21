@@ -18,7 +18,7 @@
 | [Hackviser](https://app.hackviser.com/) | Senaryolarla pratik için harika bir yerli alternatif. | `🟢 Başlangıç` `🇹🇷 TR` `🆓/💰 Kısmen` |
 | [PortSwigger Academy](https://portswigger.net/web-security) | Web güvenliği için devasa, ücretsiz lab. | `🟢 Başlangıç` `🆓 Ücretsiz` |
 | [LetsDefend](https://letsdefend.io/) | Blue team / SOC pratiği. | `🟢 Başlangıç` `🆓/💰 Kısmen` |
-| [Hacker101 CTF](https://ctf.hacker101.com/) | Alternatif, web odaklı CTF platformu. | `🟡 Orta` `🆓 Ücretsiz` |
+| [Hacker101 CTF](https://ctf.hacker101.com/) | Alternatif, web odaklı CTF platformu. _(Ekim 2026: geçici olarak kapalı.)_ | `🟡 Orta` `🆓 Ücretsiz` |
 | [picoCTF](https://picoctf.org/) | Öğrencilere yönelik, kalıcı CTF pratik alanı. | `🟢 Başlangıç` `🆓 Ücretsiz` |
 | [pwn.college](https://pwn.college/) | Sistem güvenliği ve binary exploitation dersleri. | `🟡 Orta` `🔴 İleri` `🆓 Ücretsiz` |
 
