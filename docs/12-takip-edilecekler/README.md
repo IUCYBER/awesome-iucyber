@@ -31,7 +31,7 @@
 ## Haber
 
 - **[Siber Bülten](https://www.siberbulten.com/)**: Türkçe siber güvenlik haberleri. `📚 Okuma` `🇹🇷 TR` `🆓 Ücretsiz`
-- **[USOM](https://www.usom.gov.tr/)**: Ulusal Siber Olaylara Müdahale Merkezi; resmi uyarı ve duyurular. `📚 Okuma` `🇹🇷 TR` `🆓 Ücretsiz`
+- **[T.C. Siber Güvenlik Başkanlığı](https://siberguvenlik.gov.tr/)**: Türkiye'nin resmi siber güvenlik kurumu (eski USOM'un görevlerini devraldı); resmi uyarı ve duyurular. `📚 Okuma` `🇹🇷 TR` `🆓 Ücretsiz`
 - **[The Hacker News](https://thehackernews.com/)**: Güncel siber güvenlik haberleri. `📚 Okuma` `🇬🇧 EN` `🆓 Ücretsiz`
 - **[BleepingComputer](https://www.bleepingcomputer.com/)**: Güncel saldırı ve zafiyet haberleri. `📚 Okuma` `🇬🇧 EN` `🆓 Ücretsiz`
 - **[Krebs on Security](https://krebsonsecurity.com/)**: Araştırmacı gazetecilikle siber suç haberleri. `📚 Okuma` `🇬🇧 EN` `🆓 Ücretsiz`
