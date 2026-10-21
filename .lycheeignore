@@ -6,5 +6,5 @@
 ^https://(www\.)?instagram\.com
 # README'deki göreli GitHub linkleri (../../issues/...) dosya olarak kontrol edilmesin
 issues/new
-# S�k s�k 502 veriyor ama site �al���yor
+# Sık sık 502 veriyor ama site çalışıyor
 ^https://crt\.sh
