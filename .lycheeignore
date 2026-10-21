@@ -1,0 +1,8 @@
+# Link kontrolünde atlanacak adresler (bot engelleyen veya giriş isteyen siteler)
+# Her satır bir regex.
+^https://app\.hackthebox\.com
+^https://app\.hackviser\.com
+^https://(www\.)?linkedin\.com
+^https://(www\.)?instagram\.com
+# README'deki göreli GitHub linkleri (../../issues/...) dosya olarak kontrol edilmesin
+issues/new

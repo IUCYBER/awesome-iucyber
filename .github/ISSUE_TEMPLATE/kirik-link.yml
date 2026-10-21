@@ -1,0 +1,38 @@
+name: "🔗 Kırık / Güncel Olmayan Link Bildir"
+description: Çalışmayan, taşınmış veya artık ücretli olmuş bir kaynağı bildir.
+title: "[Link] "
+labels: ["kirik-link"]
+body:
+  - type: input
+    id: sayfa
+    attributes:
+      label: Hangi sayfada?
+      placeholder: "ör. docs/05-ctf-ve-pratik/README.md"
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Sorunlu link
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: sorun
+    attributes:
+      label: Sorun ne?
+      options:
+        - Link açılmıyor (404 / site kapanmış)
+        - Başka adrese taşınmış
+        - Artık ücretli olmuş
+        - İçerik güncelliğini yitirmiş
+        - Diğer
+    validations:
+      required: true
+
+  - type: input
+    id: yeni
+    attributes:
+      label: Yeni / doğru link (biliyorsan)

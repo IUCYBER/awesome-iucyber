@@ -1,0 +1,40 @@
+# Her pazartesi tüm linkleri kontrol eder; kırık link bulursa otomatik issue açar.
+# PR'larda da çalışır, böylece kırık link eklenmeden yakalanır.
+name: Link Kontrolü
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Her pazartesi 09:00 (TR saati)
+  pull_request:
+    paths: ["**.md"]
+  workflow_dispatch:       # Actions sekmesinden elle çalıştırmak için
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-kontrol:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Linkleri kontrol et
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-concurrency 8
+            --accept 200,206,403,429
+            --exclude-path sablonlar
+            './**/*.md'
+          fail: ${{ github.event_name == 'pull_request' }}
+
+      - name: Kırık link varsa issue aç
+        if: steps.lychee.outputs.exit_code != 0 && github.event_name != 'pull_request'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔗 Haftalık link kontrolü: kırık linkler bulundu"
+          content-filepath: ./lychee/out.md
+          labels: kirik-link, otomatik

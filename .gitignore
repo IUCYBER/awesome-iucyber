@@ -1,0 +1,7 @@
+# MkDocs çıktısı ve Python ortamları
+site/
+.venv/
+venv/
+__pycache__/
+.DS_Store
+Thumbs.db

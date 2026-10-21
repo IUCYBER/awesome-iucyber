@@ -1,0 +1,115 @@
+name: "➕ Kaynak Öner"
+description: Repoya eklenmesini istediğin bir kaynağı öner (Git bilmene gerek yok).
+title: "[Kaynak] "
+labels: ["kaynak-onerisi"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Katkın için teşekkürler! 🙌 Göndermeden önce kaynağın repoda **zaten olmadığını** kontrol et.
+
+  - type: input
+    id: ad
+    attributes:
+      label: Kaynak adı
+      placeholder: "ör. PortSwigger Web Security Academy"
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kategori
+    attributes:
+      label: Kategori
+      options:
+        - 00 - Yeni Başlayanlar
+        - 01 - Temeller (Linux / Ağ / Programlama)
+        - 02 - Web Güvenliği
+        - 03 - Ofansif Güvenlik (Red Team)
+        - 04 - Defansif Güvenlik (Blue Team)
+        - 05 - CTF & Pratik Platformları
+        - 06 - Tersine Mühendislik & Zararlı Yazılım
+        - 07 - Kriptografi
+        - 08 - OSINT
+        - 09 - Bulut & Container Güvenliği
+        - 10 - Sertifikalar & Kariyer
+        - 11 - Araçlar
+        - 12 - Takip Edilecekler (YouTube / Blog / Haber / Podcast)
+        - 13 - Siber Kültür (Film / Dizi / Kitap)
+        - 14 - Diğer Alanlar
+        - Emin değilim / Yeni kategori önerisi
+    validations:
+      required: true
+
+  - type: dropdown
+    id: seviye
+    attributes:
+      label: Seviye
+      options:
+        - 🟢 Başlangıç
+        - 🟡 Orta
+        - 🔴 İleri
+        - Her seviye
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tur
+    attributes:
+      label: Tür
+      multiple: true
+      options:
+        - 📺 Video
+        - 📚 Okuma
+        - 🧪 Lab
+        - 🎓 Kurs
+        - 🛠️ Araç
+    validations:
+      required: true
+
+  - type: dropdown
+    id: dil
+    attributes:
+      label: Dil
+      options:
+        - 🇹🇷 TR
+        - 🇬🇧 EN
+        - İkisi de
+    validations:
+      required: true
+
+  - type: dropdown
+    id: ucret
+    attributes:
+      label: Ücret
+      options:
+        - 🆓 Ücretsiz
+        - 💰 Ücretli
+        - 🆓/💰 Kısmen
+    validations:
+      required: true
+
+  - type: textarea
+    id: aciklama
+    attributes:
+      label: Kısa açıklama
+      description: Bu kaynak neden faydalı? Kime önerirsin? (1-2 cümle)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: onay
+    attributes:
+      label: Kontrol
+      options:
+        - label: Bu kaynak repoda zaten yok.
+          required: true
+        - label: Korsan / telif ihlali içeren veya etik dışı bir içerik değil.
+          required: true

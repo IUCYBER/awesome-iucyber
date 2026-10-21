@@ -1,0 +1,88 @@
+# Web sitesi ayarları (GitHub Pages). İçerik docs/ klasöründen okunur.
+# Yerelde önizleme:  pip install -r requirements.txt  &&  mkdocs serve
+site_name: IUCyber Kaynak Reposu
+site_description: Sıfırdan ileri seviyeye siber güvenlik kaynakları
+site_url: https://iucyber.github.io/awesome-iucyber/
+repo_url: https://github.com/IUCYBER/awesome-iucyber
+repo_name: IUCYBER/awesome-iucyber
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: tr
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Açık temaya geç
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: green
+      toggle:
+        icon: material/weather-night
+        name: Koyu temaya geç
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.follow
+
+plugins:
+  - search:
+      lang: [tr, en]
+
+markdown_extensions:
+  - github-callouts          # GitHub'daki > [!TIP] kutularını sitede de çizer
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - Ana Sayfa: README.md
+  - 🚀 Başlangıç: 00-baslangic/README.md
+  - 🗺️ Yol Haritaları:
+      - roadmaps/README.md
+      - Sıfırdan Başlangıç: roadmaps/sifirdan-baslangic.md
+      - Red Team: roadmaps/red-team.md
+      - Blue Team: roadmaps/blue-team.md
+      - Web Güvenliği: roadmaps/web-guvenligi.md
+  - 📂 Kategoriler:
+      - Temeller: 01-temeller/README.md
+      - Web Güvenliği: 02-web-guvenligi/README.md
+      - Ofansif Güvenlik: 03-ofansif-guvenlik/README.md
+      - Defansif Güvenlik: 04-defansif-guvenlik/README.md
+      - CTF & Pratik: 05-ctf-ve-pratik/README.md
+      - Tersine Mühendislik: 06-tersine-muhendislik/README.md
+      - Kriptografi: 07-kriptografi/README.md
+      - OSINT: 08-osint/README.md
+      - Bulut Güvenliği: 09-bulut-guvenligi/README.md
+      - Sertifikalar & Kariyer: 10-sertifikalar-kariyer/README.md
+      - Araçlar: 11-araclar/README.md
+      - Takip Edilecekler: 12-takip-edilecekler/README.md
+      - Siber Kültür: 13-siber-kultur/README.md
+      - Diğer Alanlar: 14-diger-alanlar/README.md
+  - 🤝 Katkı: CONTRIBUTING.md

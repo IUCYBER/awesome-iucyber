@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+# Discussions açıldığında aşağıdaki satırları aktif et:
+# contact_links:
+#   - name: 💬 Soru sor / Tartış
+#     url: https://github.com/IUCYBER/awesome-iucyber/discussions
+#     about: Kaynak önerisi dışındaki sorular ve sohbet için Discussions'ı kullan.
