@@ -88,4 +88,6 @@ Bu repo kulüp üyeleriyle birlikte büyüyor. Git bilmene gerek yok:
 **IUCyber** · <!-- TODO: Instagram / LinkedIn / Discord linkleri -->
 Bu repoyu faydalı bulduysan ⭐ vermeyi unutma!
 
+<sub>İçerik [CC BY-SA 4.0](LICENSE) lisansı ile paylaşılmaktadır.</sub>
+
 </div>
